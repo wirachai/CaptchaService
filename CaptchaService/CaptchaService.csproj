@@ -40,6 +40,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Captcha.cs" />
+    <Compile Include="CaptchaService.cs" />
+    <Compile Include="IRandomNumber.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RandomNumber.cs" />
   </ItemGroup>

@@ -2,7 +2,7 @@
 
 namespace CaptchaService
 {
-    public class RandomNumber
+    public class RandomNumber : IRandomNumber
     {
         public int GetPattern()
         {
